@@ -1,0 +1,11 @@
+{
+  "productos": [
+    {
+      "id": "2bc6",
+      "categoria": "egresos",
+      "nombre": "estudio",
+      "fecha": "2024-08-08",
+      "precio": "100000"
+    }
+  ]
+}
